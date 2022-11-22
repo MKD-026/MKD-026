@@ -22,7 +22,7 @@
 
 - 🎓 3rd student pursuing Computer Science and Engineering at Mahindra University'24
 
-- 🧠 Researching on find damages in structures and thier severities
+- 🧠 Researching on damages in structures and thier severities using deep learning techniques
 - 📫 How to reach me dasmrinmoy02@gmail.com
 <!---
 MKD-026/MKD-026 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
