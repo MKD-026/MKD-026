@@ -22,7 +22,7 @@
 
 </p>
 
-- 🎓 3rd student pursuing Computer Science and Engineering at Mahindra University'24
+- 🎓 3rd student pursuing Computer Science and Engineering at École Centrale School of Engineering, Mahindra University'24
 
 - 🧠 Researching on damages in structures and thier severities using deep learning techniques
 - 📫 How to reach me dasmrinmoy02@gmail.com
