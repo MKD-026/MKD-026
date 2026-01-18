@@ -20,7 +20,7 @@
 </p>
 
 - 🎓 Computer Science and Engineering graduate from École Centrale School of Engineering, Mahindra University.
-- 🧠 Researching on panoramic video generation from 2D videos 
+- 🧠 Researching on autonomous driving and panoramic video generation from 2D videos 
 - 📫 How to reach me: `dasmrinmoy02@gmail.com`
 
 <!---
